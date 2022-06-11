@@ -6,7 +6,8 @@
    
    Please cite this paper. 
    
- ``` @article{li2022graph,
+ ```
+ @article{li2022graph,
  
   title={Graph Representation Learning Beyond Node and Homophily},
   
