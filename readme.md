@@ -7,10 +7,15 @@
    Please cite this paper. 
    
  @article{li2022graph,
+ 
   title={Graph Representation Learning Beyond Node and Homophily},
+  
   author={Li, You and Lin, Bei and Luo, Binli and Gui, Ning},
+  
   journal={IEEE Transactions on Knowledge and Data Engineering},
+  
   year={2022},
+  
   publisher={IEEE}
 }
 
