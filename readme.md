@@ -3,10 +3,19 @@
 ## Paper
 
    Graph Representation Learning Beyond Node and Homophily, IEEE Transactions on Knowledge and Data Engineering, 2022
-
-We provide the source code of paire. Our model implementation is based on keras, which allows the model to be trained by GPU.
+   
+   Please cite this paper. 
+   
+ @article{li2022graph,
+  title={Graph Representation Learning Beyond Node and Homophily},
+  author={Li, You and Lin, Bei and Luo, Binli and Gui, Ning},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2022},
+  publisher={IEEE}
+}
 
 ## Usage
+We provide the source code of paire. Our model implementation is based on keras, which allows the model to be trained by GPU.
 
 #### Installation
 
