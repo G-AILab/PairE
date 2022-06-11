@@ -1,5 +1,9 @@
 # PairE: Pair-view Graph Representation Learning
 
+## Paper
+
+   Graph Representation Learning Beyond Node and Homophily, IEEE Transactions on Knowledge and Data Engineering, 2022
+
 We provide the source code of paire. Our model implementation is based on keras, which allows the model to be trained by GPU.
 
 ## Usage
