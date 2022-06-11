@@ -6,7 +6,7 @@
    
    Please cite this paper. 
    
- @article{li2022graph,
+ ``` @article{li2022graph,
  
   title={Graph Representation Learning Beyond Node and Homophily},
   
@@ -18,6 +18,7 @@
   
   publisher={IEEE}
 }
+```
 
 ## Usage
 We provide the source code of paire. Our model implementation is based on keras, which allows the model to be trained by GPU.
